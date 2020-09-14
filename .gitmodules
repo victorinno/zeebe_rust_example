@@ -1,0 +1,4 @@
+[submodule "zeebe_tutorial_initiate_payment"]
+	path = zeebe_tutorial_initiate_payment
+	url = https://github.com/victorinno/zeebe_tutorial_initiate_payment
+	branch = master
